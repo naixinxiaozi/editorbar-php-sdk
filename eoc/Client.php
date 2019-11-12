@@ -5,7 +5,7 @@ class Client
 
 	public $secretKey;
 
-	public $requestUrl = "http://link.113lab.com";
+	public $requestUrl = "http://link.113lab.cn";
 
 	public $accept = "application/json; charset=utf-8";
 
